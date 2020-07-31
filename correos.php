@@ -1,5 +1,5 @@
 <?php
-$destinatario='asesoriasyconsultoriasayc@gmail.com';
+$destinatario='brian13andres@gmail.com';
 
 $nombre=$POST['nombre'];
 $asunto="Asesoria o consulta"
